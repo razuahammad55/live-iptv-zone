@@ -1,0 +1,3 @@
+EXTM3U
+#EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://192.168.0.222:5001/jtvimage/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Enterr 10
+http://192.168.0.222:5001/live/485.m3u8
